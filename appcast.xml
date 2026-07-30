@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KaiCleanerApp</title>
+        <item>
+            <title>1.11.0</title>
+            <pubDate>Wed, 29 Jul 2026 17:40:24 -0700</pubDate>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JamesJoe716/KaiCleaner-releases/releases/download/v1.11.0/KaiCleanerApp-local.zip" length="21275232" type="application/octet-stream" sparkle:edSignature="s/CMLw7EBA+yuw6rh8OZ1m+GbkbhJwTgPEp5TzYeM7oST27igq0mxk4usSG5MC2peNSgJwRbdgL1I5FVfNgHCQ=="/>
+        </item>
+    </channel>
+</rss>
