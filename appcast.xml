@@ -4,11 +4,11 @@
         <title>KaiCleanerApp</title>
         <item>
             <title>1.11.0</title>
-            <pubDate>Wed, 29 Jul 2026 20:26:45 -0700</pubDate>
+            <pubDate>Wed, 29 Jul 2026 21:20:50 -0700</pubDate>
             <sparkle:version>96</sparkle:version>
             <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JamesJoe716/KaiCleaner-releases/releases/download/v1.11.0/KaiCleanerApp-local-62e3fc061b2b.zip" length="21324544" type="application/octet-stream" sparkle:edSignature="mM2DRt+Z7hSy5ZTTI+EDicbR2VMNPptcr7c4iISnTNeStgMUqzT/u+RdtBqY++++Zvtvwv1u2c0EI7ApwiTUDw=="/>
+            <enclosure url="https://github.com/JamesJoe716/KaiCleaner-releases/releases/download/v1.11.0/KaiCleanerApp-local-20c89e59b818.zip" length="21360481" type="application/octet-stream" sparkle:edSignature="1xfOOlHLKurvG+1n+bUDrVE+Kex5zqFcLWgid78ioG9YJVm7SEQv4m5Whv+xhgvJVWir9HGS6eR5gCPJZT8vDQ=="/>
         </item>
     </channel>
 </rss>
